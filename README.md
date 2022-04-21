@@ -23,7 +23,7 @@ The API wrapper also allows you to construct and send messages.
 Using composer:
 
 ```bash
-$ composer require nawazm92/paubox
+$ composer require OmarPRE/paubox
 ```
 
 ### Getting Paubox API Credentials
@@ -229,7 +229,7 @@ print_r($resp);
 <a name="#contributing"></a>
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/paubox/paubox-php.
+Bug reports and pull requests are welcome on GitHub at https://github.com/OmarPRE/paubox-php.
 
 
 <a name="#license"></a>
